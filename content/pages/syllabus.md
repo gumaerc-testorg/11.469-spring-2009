@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, structure, grading, the schedule of lecture topics, required texts,
+  and recommended texts.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -26,7 +29,7 @@ Each week's readings are divided into three parts: required readings, additional
 Grading
 -------
 
-Final grades will be assigned based on the assignments and in-class activities listed below. Students are urged to pay close attention to due dates; late assignments will result in a significant grade penalty. More information can be found in the [Assignments]({{< baseurl >}}/pages/assignments) section.
+Final grades will be assigned based on the assignments and in-class activities listed below. Students are urged to pay close attention to due dates; late assignments will result in a significant grade penalty. More information can be found in the {{% resource_link 04f30e12-dfc2-62a8-321a-30f5e3cb4981 "Assignments" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}
