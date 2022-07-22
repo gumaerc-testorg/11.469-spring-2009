@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides an overview of the writing assignments and additional
+  core readings of the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 04f30e12-dfc2-62a8-321a-30f5e3cb4981
 ---
