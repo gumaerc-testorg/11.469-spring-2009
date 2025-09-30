@@ -73,11 +73,11 @@ The ecological view I: the Chicago School
 
 ### Required readings
 
-Wirth, Louis. "Urbanism as a Way of Life." *The American Journal of Sociology* 44, no. 1 (1938): 1-24. (Also available in *The City Reader*, pp. 97-104) ([PDF](http://choros.epfl.ch/files/content/sites/choros/files/shared/Enseignement/Sciences%20de%20la%20ville/11-12/Wirth%20-%20Urbanism.pdf))
+Wirth, Louis. "Urbanism as a Way of Life." *The American Journal of Sociology* 44, no. 1 (1938): 1-24. (Also available in *The City Reader*, pp. 97-104) ({{% resource_link "9682e325-9351-42db-8666-cd1f61ea106c" "PDF" %}})
 
 Park, Robert E. "The City: Suggestions for the Investigation of Human Behavior in the City Environment." *The American Journal of Sociology* 20, no. 5 (1915): 577-612.
 
-Park, Robert E. "[Human Ecology](http://www.jstor.org/stable/2768859)." *The American Journal of Sociology* 42, no. 1 (1936): 1-15.
+Park, Robert E. "{{% resource_link "05a7df56-4fa2-4c01-8910-25a80fa0f073" "Human Ecology" %}}." *The American Journal of Sociology* 42, no. 1 (1936): 1-15.
 
 Burgess, Ernest W. "The Growth of the City: An Introduction to a Research Project." In *The City*. Chicago, IL: University Of Chicago Press, 1984, pp. 47-62. ISBN: 9780226646114.
 
@@ -89,11 +89,11 @@ Milgram, Stanley. "The Experience of Living in Cities." *Science* 167 (1970): 14
 
 LaFarge, Albert. *The Essential William H. Whyte*. New York, NY: Fordham University Press, 2000. ISBN: 9780823220267.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262130127) Maier, Richard. "The Civic Bond." Chapter 2 in [*A Communications Theory of Urban Growth*](https://mitpress.mit.edu/9780262130127). Cambridge, MA: The MIT Press, 1962. ISBN: 9780262130127.
+{{% resource_link "223b1b82-e87f-4fb4-91ac-22baea09e3b4" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Maier, Richard. "The Civic Bond." Chapter 2 in {{% resource_link "223b1b82-e87f-4fb4-91ac-22baea09e3b4" "*A Communications Theory of Urban Growth*" %}}. Cambridge, MA: The MIT Press, 1962. ISBN: 9780262130127.
 
 ### Additional suggested readings
 
-Harris, Chauncy D., and Edward L. Ullman. "[The Nature of Cities](http://journals.sagepub.com/doi/abs/10.1177/000271624524200103)." *Annals of the American Academy of Political and Social Science* 242 (1945): 7-17.
+Harris, Chauncy D., and Edward L. Ullman. "{{% resource_link "c539dbd8-912c-4173-8777-8bcdc20d5f53" "The Nature of Cities" %}}." *Annals of the American Academy of Political and Social Science* 242 (1945): 7-17.
 
 Hoyt, Homer. *The Structure and Growth of Residential Neighbourhoods in American Cities*. Washington, DC: U.S. Federal Housing Administration, 1939.
 
@@ -269,7 +269,7 @@ Schlosberg, David. *Defining Environmental Justice: Theories, Movements, and Nat
 
 Pellow, David. "Environmental Inequality Formation." *American Behavioral Scientist* 43, no. 4 (2000): 581-601.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262661935) Pellow, David, and Robert Brulle. [*Power, Justice, and the Environment*](https://mitpress.mit.edu/9780262661935). Cambridge, MA: The MIT Press, 2005, pp. 1-53. ISBN: 9780262661935.
+{{% resource_link "a3e36135-4f75-4457-af3f-99d0d03bb8d1" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Pellow, David, and Robert Brulle. {{% resource_link "a3e36135-4f75-4457-af3f-99d0d03bb8d1" "*Power, Justice, and the Environment*" %}}. Cambridge, MA: The MIT Press, 2005, pp. 1-53. ISBN: 9780262661935.
 
 Fainstein, Susan. *Planning and the Just City*. Paper prepared for Conference on Searching for the Just City, GSAPP, Columbia University, April 29, 2006.
 
@@ -345,7 +345,7 @@ Davis, Mike. *City of Quartz*. New York, NY: Vintage Books, 1992. ISBN: 97806797
 
 Klinenberg, Eric. *Heat Wave: A Social Autopsy of Disaster in Chicago*. Chicago, IL: University Of Chicago Press, 2003, (Read chapter 2). ISBN: 9780226443225.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262524704) Bullard, Robert. [*Growing Smarter: Achieving Livable Communities, Environmental Justice, and Regional Equity*](https://mitpress.mit.edu/9780262524704). Cambridge, MA: The MIT Press, 2007. ISBN: 9780262524704.
+{{% resource_link "8972ff2d-491a-4de0-a0d7-302ecbc25b4c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bullard, Robert. {{% resource_link "8972ff2d-491a-4de0-a0d7-302ecbc25b4c" "*Growing Smarter: Achieving Livable Communities, Environmental Justice, and Regional Equity*" %}}. Cambridge, MA: The MIT Press, 2007. ISBN: 9780262524704.
 
 Gilroy, Paul. "A Response." *British Journal of Sociology* 60, no. 1 (2009): 33-38.
 
@@ -387,7 +387,7 @@ Matei, Sorin, and Sandra Ball-Rokeach. "Real and Virtual Social Ties: Connection
 
 ### Additional core readings
 
-Hampton, Keith. "Grieving for a Lost Network: Collective Action in a Wired Suburb." *The Information Society* 19 (2003): 417-428. ([PDF](http://dx.doi.org/10.1080/714044688))
+Hampton, Keith. "Grieving for a Lost Network: Collective Action in a Wired Suburb." *The Information Society* 19 (2003): 417-428. ({{% resource_link "f23aceb3-42d0-42c5-a387-e90edaf9dcef" "PDF" %}})
 
 Putnam, Robert. *Bowling Alone: The Collapse and Revival of American Community*. New York, NY: Simon & Shuster, 2001. ISBN: 9780743203043.
 
@@ -403,7 +403,7 @@ Fischer, Claude. "Bowling Alone: What's the Score?" *Social Networks* 27, no. 2 
 
 Ling, Rich. *The Mobile Connection: The Cell Phone's Impact on Society*. San Francisco, CA: Morgan Kaufmann, 2004. ISBN: 9781558609365.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262112697) Katz, James E., and Ronald E. Rice. [*Social Consequences of Internet Use: Access, Involvement, and Interaction*](https://mitpress.mit.edu/9780262112697). Cambridge, MA: The MIT Press, 2002. ISBN: 9780262112697.
+{{% resource_link "6648718b-41fa-4904-a1f6-abb4ac6f8d66" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Katz, James E., and Ronald E. Rice. {{% resource_link "6648718b-41fa-4904-a1f6-abb4ac6f8d66" "*Social Consequences of Internet Use: Access, Involvement, and Interaction*" %}}. Cambridge, MA: The MIT Press, 2002. ISBN: 9780262112697.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
